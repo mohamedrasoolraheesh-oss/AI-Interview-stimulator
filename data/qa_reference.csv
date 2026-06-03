@@ -1,0 +1,7 @@
+question,answer
+What is OOP?,OOP is a programming paradigm based on classes and objects.
+Explain decorators in Python.,Decorators modify function behavior without changing source code.
+What is overfitting?,Overfitting happens when a model learns training data too well.
+Explain bias vs variance.,Bias is underfitting while variance is overfitting.
+What is normalization?,Normalization organizes data to reduce redundancy.
+What is a JOIN?,JOIN combines rows from multiple tables.

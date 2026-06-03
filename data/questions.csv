@@ -1,0 +1,26 @@
+question_id,category,difficulty,question_text
+1,General,Easy,Tell me about yourself
+2,General,Medium,What are your greatest strengths?
+3,General,Hard,Describe a challenging situation you overcame
+4,Technical,Medium,What are your core technical skills?
+5,Technical,Hard,Explain a complex technical project you worked on
+6,Behavioral,Easy,Why are you interested in this position?
+7,Behavioral,Medium,How do you handle conflicts with team members?
+8,Behavioral,Hard,Tell me about a time you failed and what you learned
+9,Problem-Solving,Hard,How would you approach a new technical problem?
+10,Communication,Medium,How do you communicate complex ideas to non-technical stakeholders?
+11,Python,Medium,What is OOP?
+12,Python,Medium,Explain decorators in Python.
+13,Python,Medium,What are Python generators?
+14,Machine Learning,Medium,What is overfitting?
+15,Machine Learning,Medium,Explain bias vs variance.
+16,Machine Learning,Medium,What is supervised learning?
+17,DBMS,Medium,What is normalization?
+18,DBMS,Medium,Explain ACID properties.
+19,SQL,Medium,What is a JOIN?
+20,Java,Medium,Explain JVM architecture.
+21,Data Structures,Medium,What is a linked list?
+22,AI,Medium,What is artificial intelligence?
+23,NLP,Medium,What is tokenization?
+24,Docker,Medium,What is containerization?
+25,AWS,Medium,What is cloud computing?

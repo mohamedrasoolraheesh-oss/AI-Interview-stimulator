@@ -1,0 +1,15 @@
+question_id,candidate_id,answer_text,response_time,confidence_score
+1,C001,"I'm a software engineer with 5 years of experience in Python and machine learning",45,0.85
+2,C001,"My strengths are problem solving and teamwork. I enjoy learning new technologies",38,0.78
+3,C001,"I once had to debug a complex ML model that was producing incorrect predictions. I systematically tested each component and found the issue was in the data preprocessing",120,0.92
+4,C001,"I have skills in Python, Machine Learning, Deep Learning, and SQL",32,0.88
+5,C001,"I built a recommendation system using collaborative filtering and deep neural networks which improved user engagement by 25%",95,0.90
+11,C001,"OOP stands for Object-Oriented Programming. It's a paradigm that uses objects and classes to structure code",40,0.82
+12,C001,"Decorators in Python are functions that modify the behavior of other functions or classes without permanently changing them",50,0.88
+13,C001,"Generators are iterators that yield values one at a time using the yield keyword, which is memory efficient",45,0.85
+14,C001,"Overfitting occurs when a model learns the training data too well including noise and doesn't generalize to new data",38,0.80
+15,C001,"Bias refers to the model's tendency to underfit while variance refers to overfitting. The bias-variance tradeoff is key",55,0.87
+2,C002,"I'm detail-oriented and can work well under pressure. I'm also good at communicating technical concepts",42,0.75
+4,C002,"Python, Java, JavaScript, React, Node.js, and SQL",35,0.79
+11,C002,"Object-Oriented Programming organizes code into objects that have properties and methods",38,0.70
+12,C002,"Decorators modify functions but I'm still learning about them in detail",32,0.60

@@ -1,0 +1,19 @@
+Python
+Machine Learning
+Deep Learning
+Data Structures
+DBMS
+SQL
+Java
+C++
+JavaScript
+React
+Node.js
+AI
+NLP
+TensorFlow
+PyTorch
+Cloud Computing
+AWS
+Docker
+Git

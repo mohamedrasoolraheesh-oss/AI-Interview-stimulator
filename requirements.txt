@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+opencv-python
+numpy
+pandas
+scikit-learn
+librosa
+soundfile
+scipy
+matplotlib
+seaborn
+reportlab
+python-docx
+fpdf
